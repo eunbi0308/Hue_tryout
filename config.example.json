@@ -1,0 +1,5 @@
+{
+    "bridge_ip" : "192.000.000.000",
+    "uesrname" : "your username",
+    "lights" :[1, 2]
+}

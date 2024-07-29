@@ -1,0 +1,6 @@
+.vscode
+hue_control
+obj
+obj/
+*.o
+config.json
